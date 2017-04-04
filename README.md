@@ -85,7 +85,10 @@ echo "----------install success-----------"
 [Zend]
 zend_extension="/usr/lib/ZendOptimizer.so"
 ```
-
+安装完成，重启服务器
+```
+reboot
+```
 
 ### ·安装完成后的初始化参数：
 
